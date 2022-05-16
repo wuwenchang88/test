@@ -1,0 +1,8 @@
+# 忽略 index.css 这个文件
+index.less
+
+# 忽略 index.js 这个文件
+index.js
+
+# 忽略 images 目录下所有的文件
+images/
